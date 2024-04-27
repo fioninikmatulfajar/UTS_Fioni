@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UtsFioni</string>
+    <string name="list_users">List Users</string>
+    <string name="bio">bio</string>
+    <string name="nama">Nama</string>
+    <string name="user">User</string>
+</resources>
